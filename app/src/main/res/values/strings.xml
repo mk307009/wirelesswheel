@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WirelessWheel</string>
+
+    <string name="ip_settings_text">Input IP address and port</string>
+    <string name="connect">Con</string>
+    <string name="disconnect">Disco</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="address">Change address</string>
+</resources>
